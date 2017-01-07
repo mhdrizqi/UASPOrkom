@@ -11,7 +11,7 @@
 - Buatlah format output dan input sesuai dengan yang diberikan pada soal. Input dan Output dari terminal.
 - Penilaian UASP berdasarkan dari test-case yang telah disediakan. Jika semua test-case benar bernilai `100`, selainnya `0`.
 - Pisahkan setiap soal menjadi folder masing-masing dengan nama folder `task1`, dst.
-- Setelah selesai, compress semua folder tersebut menjadi format `.zip` untuk dikumpulkan melalui email dengan format nama file
+- Setelah selesai, **ubah nama folder root** menjadi **NIM** anda lalu compress semua folder tersebut menjadi format `.zip` untuk dikumpulkan melalui email dengan format nama file
 `UASP-KOM206-NIM.zip`, format subjek email `UASP-KOM206-NIM`, dan kirimkan ke `rizqiilkom50@apps.ipb.ac.id`.
 
 ***
