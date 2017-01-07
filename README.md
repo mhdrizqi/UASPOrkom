@@ -28,20 +28,19 @@ Untuk itu pak Gosling membutuhkan program yang dapat menghitung jumlah kata pada
 Contoh test-case:
 
 Contoh input 1 :<br />
-<code>variabelIniPunyaLimaKata</code>
+`variabelIniPunyaLimaKata`
 
 Contoh output 1 <br />
-<code>5</code>
+`5`
 
 > Penjelasan: <br />
 (variabel)(Ini)(Punya)(Lima)(Kata)
 
 Contoh input 2 :<br />
-<code>variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer</code>
+`variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer`
 
 Contoh output 2 :<br />
-<code>Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tidak baik jika lebih dari 10 kata.</code>
-
+`Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tidak baik jika lebih dari 10 kata.`
 
 ***
 
@@ -69,27 +68,25 @@ Input : <br />
 `8 3`<br />
 `2 3`<br />
 
-Output :<br>
-**Untuk bagian a**<br>
-<code>
-5<br>
-50 5<br>
-15 4<br>
-25 4<br>
-8 3<br>
-2 3<br>
-</code>
+Output :<br />
+**Untuk bagian a**<br />
+`5`<br />
+`50 5`<br />
+`15 4`<br />
+`25 4`<br />
+`8 3`<br />
+`2 3`<br />
 
-**Untuk bagian b**<br>
+**Untuk bagian b**<br />
 <code>4.40</code>
 
 
->Perhitungan :<br>
+>Perhitungan :<br />
 5 (cycle yg digunakan tiap instruksi pertama) x 50 (jumlah instruksi pertama) + 4 (cycle yy digunakan tiap instruksi kedua) 15 (banyak instruksi kedua) .... dst / 100 (total instruksi yg ada di algoritme tersebut)
 
 
 *Catatan :
-Untuk menjawab soal ini, buat lah folder seperti berikut:*<br>
->task02/<br>
-  >>a/ (terdiri dari file main.asm dan makefile)<br>
+Untuk menjawab soal ini, buat lah folder seperti berikut:*<br />
+>task02/<br />
+  >>a/ (terdiri dari file main.asm dan makefile)<br />
   >>b/ (terdiri dari file main.asm dan makefile)
