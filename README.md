@@ -19,7 +19,7 @@
 ## Soal 1 - CamelCase
 Pak Gosling merupakan seorang pembuat salah satu bahasa pemrograman terkemuka. Setelah membuat bahasa pemrogramannya, dia ingin membuat sendiri IDE dari bahasa pemrograman yang telah dia buat. Untuk mempermudah penggunaan IDE nya, dia ingin membuat fitur untuk menghitung jumlah kata pada variabel yang dibuat oleh programmer. Kita tahu biasanya programmer menuliskan nama variabel dengan menggunakan penulisan **CamelCase**.
 
-Pada **CamelCase** jika terdapat suatu string 's', maka mengikuti aturan berikut:
+Pada **CamelCase** jika terdapat suatu string 's', maka mengikuti aturan berikut: <br />
 1. Pada 's' dimungkinkan terdapat satu atau lebih kata didalamnya
 2. Kata pertama pada 's' diawali dengan huruf non-kapital dan diikuti oleh huruf non-kapital juga
 3. Untuk kata selanjutnya pada 's' diawali dengan huruf kapital dan diikuti oleh huruf non-kapital
