@@ -61,24 +61,28 @@ b) Hasil perhitungan CPI, dalam format 2 angka dibelakang koma, diakhiri dengan 
 Misalkan :
 
 Input : <br />
-`5`<br />
-`50 5`<br />
-`15 4`<br />
-`25 4`<br />
-`8 3`<br />
-`2 3`<br />
+```
+5
+50 5
+15 4
+25 4
+8 3
+2 3
+```
 
 Output :<br />
 **Untuk bagian a**<br />
-`5`<br />
-`50 5`<br />
-`15 4`<br />
-`25 4`<br />
-`8 3`<br />
-`2 3`<br />
+```
+5
+50 5
+15 4
+25 4
+8 3
+2 3
+```
 
 **Untuk bagian b**<br />
-<code>4.40</code>
+`4.40`
 
 
 >Perhitungan :<br />
@@ -92,4 +96,4 @@ Untuk menjawab soal ini, buat lah folder seperti berikut:*<br />
   >>b/ (terdiri dari file main.asm dan makefile)
 
 ---
-# <center>Happy Coding :)</center>
+# Happy Coding :)
