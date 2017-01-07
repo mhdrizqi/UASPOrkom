@@ -5,7 +5,7 @@
 - Peserta `HANYA` diperbolehkan membuka modul praktikum, bukan code-code tugas praktikum. `TIDAK DIPERBOLEHKAN` membuka web lain selain Git ini.
 - Modul Praktikum dan Template `main.asm` terdapat di Git ini, Anda hanya perlu men-download zip Git ini. Opsi Download ada di bagian kanan atas.
 - Jika ada pertanyaan, silahkan tanyakan kepada pengawas, bukan kepada teman anda.
-- Peserta yang melanggar ketentuan dan segala bentuk kecurangan akan diberikan sanksi nilai UASP `-20`.
+- Peserta yang melanggar ketentuan dan berbuat segala bentuk kecurangan akan diberikan sanksi nilai UASP `-20`.
 
 ## Cara Menjawab
 - Buatlah format output dan input sesuai dengan yang diberikan pada soal. Input dan Output dari terminal.
@@ -90,3 +90,6 @@ Untuk menjawab soal ini, buat lah folder seperti berikut:*<br />
 >task02/<br />
   >>a/ (terdiri dari file main.asm dan makefile)<br />
   >>b/ (terdiri dari file main.asm dan makefile)
+
+---
+# <center>Happy Coding :)</center>
