@@ -15,7 +15,7 @@
 `UASP-KOM206-NIM.zip`, format subjek email `UASP-KOM206-NIM`, dan kirimkan ke `rizqiilkom50@apps.ipb.ac.id`.
 
 ***
-## Soal 1
+## Soal 1 - CamelCase
 Pak Gosling merupakan seorang pembuat salah satu bahasa pemrograman terkemuka. Setelah membuat bahasa pemrogramannya, dia ingin membuat sendiri IDE dari bahasa pemrograman yang telah dia buat. Untuk mempermudah penggunaan IDE nya, dia ingin membuat fitur untuk menghitung jumlah kata pada variabel yang dibuat oleh programmer. Kita tahu biasanya programmer menuliskan nama variabel dengan menggunakan penulisan **CamelCase**.
 
 Pada **CamelCase** jika terdapat suatu string 's', maka mengikuti aturan berikut:
@@ -52,7 +52,7 @@ Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tida
 
 ***
 
-## Soal 2
+## Soal 2 - CPI
 Pak Orkom sedang melakukan penelitian terhadap suatu algoritme. Dia ingin mengetahui **Cycles Per Instruction** dari algoritme tersebut. Sementara itu, algoritme tersebut ditulis dengan bahasa Assembly 32 bit.
 
 Perhitungan CPI mengguanakan parameter tipe instruksi dan banyaknya instruksi tersebut, serta berapa banyak cycle yang digunakan oleh tiap instruksi tersebut.
