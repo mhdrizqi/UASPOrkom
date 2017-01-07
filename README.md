@@ -20,9 +20,9 @@
 Pak Gosling merupakan seorang pembuat salah satu bahasa pemrograman terkemuka. Setelah membuat bahasa pemrogramannya, dia ingin membuat sendiri IDE dari bahasa pemrograman yang telah dia buat. Untuk mempermudah penggunaan IDE nya, dia ingin membuat fitur untuk menghitung jumlah kata pada variabel yang dibuat oleh programmer. Kita tahu biasanya programmer menuliskan nama variabel dengan menggunakan penulisan **CamelCase**.
 
 Pada **CamelCase** jika terdapat suatu string 's', maka mengikuti aturan berikut: <br />
-1. Pada 's' dimungkinkan terdapat satu atau lebih kata didalamnya
-2. Kata pertama pada 's' diawali dengan huruf non-kapital dan diikuti oleh huruf non-kapital juga
-3. Untuk kata selanjutnya pada 's' diawali dengan huruf kapital dan diikuti oleh huruf non-kapital
+1. Pada 's' dimungkinkan terdapat satu atau lebih kata didalamnya <br />
+2. Kata pertama pada 's' diawali dengan huruf non-kapital dan diikuti oleh huruf non-kapital juga <br />
+3. Untuk kata selanjutnya pada 's' diawali dengan huruf kapital dan diikuti oleh huruf non-kapital <br />
 
 Untuk itu pak Gosling membutuhkan program yang dapat menghitung jumlah kata pada suatu variabel string di IDE-nya dengan performa yang cepat. Sehingga dia memutuskan untuk menggunakan bahasa *assembly*. Bantulah pak Gosling untuk membuat program penghitung jumlah kata pada string **CamelCase**. Karena tidak baik jika penamaan variabel terlalu panjang, maka jika ternyata panjang string lebih dari 10 kata, keluarkan pesan *warning* `Warning : variabel 'nama_variabel' tidak baik jika lebih dari 10 kata.`
 
