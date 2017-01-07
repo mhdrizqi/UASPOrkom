@@ -27,19 +27,19 @@ Untuk itu pak Gosling membutuhkan program yang dapat menghitung jumlah kata pada
 
 Contoh test-case:
 
-Contoh input 1 :</br>
+Contoh input 1 :<br />
 <code>variabelIniPunyaLimaKata</code>
 
-Contoh output 1 :</br>
+Contoh output 1 <br />
 <code>5</code>
 
-> Penjelasan: </br>
+> Penjelasan: <br />
 (variabel)(Ini)(Punya)(Lima)(Kata)
 
-Contoh input 2 :</br>
+Contoh input 2 :<br />
 <code>variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer</code>
 
-Contoh output 2 :</br>
+Contoh output 2 :<br />
 <code>Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tidak baik jika lebih dari 10 kata.</code>
 
 
@@ -50,26 +50,25 @@ Pak Orkom sedang melakukan penelitian terhadap suatu algoritme. Dia ingin menget
 
 Perhitungan CPI mengguanakan parameter tipe instruksi dan banyaknya instruksi tersebut, serta berapa banyak cycle yang digunakan oleh tiap instruksi tersebut.
 
-Input : <br>
+Input : <br />
 Baris pertama merupakan banyaknya tipe instruksi yang digunakan algoritme tersebut.
 Kemudian baris selanjutnya terdiri dari dua kolom, kolom yg pertama adalah banyaknya type instruksi tersebut, dan kolom kedua adalah cycle yang digunakan oleh masing-masing instruksi sebanyak input baris pertama.
 
-Output : <br>
-Soal ini terdiri dari 2 cabang : <br>
-a) Print ulang semua input program anda (nilai bonus 50). <br>
+Output : <br />
+Soal ini terdiri dari 2 cabang : <br />
+a) Print ulang semua input program anda (nilai bonus 50). <br />
 b) Hasil perhitungan CPI, dalam format 2 angka dibelakang koma, diakhiri dengan newline (nilai 100).
 
 Misalkan :
 
-Input : <br>
-<code>
-5<br>
-50 5<br>
-15 4<br>
-25 4<br>
-8 3<br>
-2 3<br>
-</code>
+Input : <br />
+`5<br />
+50 5<br />
+15 4<br />
+25 4<br />
+8 3<br />
+2 3<br />
+`
 
 Output :<br>
 **Untuk bagian a**<br>
