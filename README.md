@@ -28,19 +28,27 @@ Untuk itu pak Gosling membutuhkan program yang dapat menghitung jumlah kata pada
 Contoh test-case:
 
 Contoh input 1 :<br />
-`variabelIniPunyaLimaKata`
+```
+variabelIniPunyaLimaKata
+```
 
 Contoh output 1 <br />
-`5`
+```
+5
+```
 
 > Penjelasan: <br />
 (variabel)(Ini)(Punya)(Lima)(Kata)
 
 Contoh input 2 :<br />
-`variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer`
+```
+variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer
+```
 
 Contoh output 2 :<br />
-`Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tidak baik jika lebih dari 10 kata.`
+```
+Warning : variabel 'variabelIniPunyaLebihDariSepuluhKataLohSeriusanDehSuer' tidak baik jika lebih dari 10 kata.
+```
 
 ***
 
