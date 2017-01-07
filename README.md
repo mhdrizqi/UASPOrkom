@@ -11,7 +11,7 @@
 - Buatlah format output dan input sesuai dengan yang diberikan pada soal. Input dan Output dari terminal.
 - Penilaian UASP berdasarkan dari test-case yang telah disediakan. Jika semua test-case benar bernilai `100`, selainnya `0`.
 - Pisahkan setiap soal menjadi folder masing-masing dengan nama folder `task1`, dst.
-- Waktu pengerjaan `13.00-15.00`, waktu pengumpulan `15.00-15.05`. Keterlambatan pengumpulan akan dikenakan pengurangan pada skor total sebesar `-5` per-menit. Toleransi keterlambatan hingga pukul `15.10`, pengumpulan melebihi waktu tersebut akan dikenakan nilai `0` pada skor total.
+- Waktu pengerjaan `13.25-15.20`, waktu pengumpulan `15.20-15.25`. Keterlambatan pengumpulan akan dikenakan pengurangan pada skor total sebesar `-5` per-menit. Toleransi keterlambatan hingga pukul `15.30`, pengumpulan melebihi waktu tersebut akan dikenakan nilai `0` pada skor total.
 - Setelah selesai, **ubah nama folder root** menjadi **NIM** anda lalu compress semua folder tersebut menjadi format `.zip` untuk dikumpulkan melalui email dengan format nama file
 `UASP-KOM206-NIM.zip`, format subjek email `UASP-KOM206-NIM`, dan kirimkan ke `rizqiilkom50@apps.ipb.ac.id`.
 
