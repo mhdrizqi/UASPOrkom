@@ -62,13 +62,12 @@ b) Hasil perhitungan CPI, dalam format 2 angka dibelakang koma, diakhiri dengan 
 Misalkan :
 
 Input : <br />
-`5<br />
-50 5<br />
-15 4<br />
-25 4<br />
-8 3<br />
-2 3<br />
-`
+`5`<br />
+`50 5`<br />
+`15 4`<br />
+`25 4`<br />
+`8 3`<br />
+`2 3`<br />
 
 Output :<br>
 **Untuk bagian a**<br>
