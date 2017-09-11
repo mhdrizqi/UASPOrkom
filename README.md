@@ -1,4 +1,5 @@
 # UASPOrkom
+TEREDIT !
 ***
 ## Ketentuan
 - Tuliskan Nama (@author :), NIM (@nim : ) dan No. (@no :) di bagian atas setiap jawaban code assembly.
